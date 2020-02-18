@@ -1,0 +1,33 @@
+{
+  "name": "eiogao",
+  "version": "1.0.0",
+  "description": "Ei o gao tu ta ond",
+  "author": "Neri Bez Fontana",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "bin": {
+    "eiogao": "./src/cli.js"
+  },
+  "dependencies": {
+    "meow": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbfontana/eiogao.git"
+  },
+  "keywords": [
+    "ei",
+    "o",
+    "gao",
+    "tu",
+    "ta",
+    "ond"
+  ],
+  "bugs": {
+    "url": "https://github.com/nbfontana/eiogao/issues"
+  },
+  "homepage": "https://github.com/nbfontana/eiogao#readme"
+}
